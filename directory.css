@@ -1,0 +1,56 @@
+.first{
+    background-image: url(https://d19m59y37dris4.cloudfront.net/directory/2-0-2/img/photo/photo-1490578474895-699cd4e2cf59.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 600px;
+}
+.borderR{
+    border-right: 1px solid #DDDDDD;
+}
+@media only screen and (max-width: 992px){
+    .borderR{
+        border-right: none;
+        border-bottom: 1px solid #DDDDDD;
+    }
+}
+.dropdowns:hover{
+    background-color: #CED4DA;
+}
+.dm:hover{
+    color: blue;
+    background-color: #e9ebec;
+}
+.icon{
+    color: #7386F9;
+    display: inline-block;
+    background-color: #E4E8FE;
+    font-size: xx-large;
+}
+.fs{
+    font-size: 13px;
+}
+.grey{
+    color: grey;
+}
+.image1{
+    background-image: url(https://d19m59y37dris4.cloudfront.net/directory/2-0-2/img/photo/photo-1497436072909-60f360e1d4b1.jpg);
+    background-size: cover;
+    height: 600px;
+}
+.box1{
+    box-shadow: 0 0 10px 1px rgb(201, 200, 200);
+    border-radius: 20px;
+    
+}
+.ahrif{
+    text-decoration: none;
+    color: grey;
+}
+.ahrif:hover{
+    text-decoration: underline solid;
+    color: grey;
+}
+.ahrif1:hover{
+    color: black !important;
+}
